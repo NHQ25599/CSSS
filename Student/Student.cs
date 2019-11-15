@@ -8,6 +8,8 @@ namespace Student
 {
     class Student
     {
+        internal int studentID;
+
         public int StudentID { get; private set; }
 
         class Program
